@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite 1" verbose="1" >
+  <test name="faceBooktest" >
+    <classes>
+      <class name="TC001_VerifyLogin"/>
+    
+    </classes>
+ </test>
+ 
+  <test name="Regression suite 1" >
+    <classes>
+      <class name="TC002_ReviewWalletHub"/>
+    
+    </classes>
+ </test>
+  
+  
+</suite>

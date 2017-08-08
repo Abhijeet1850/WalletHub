@@ -1,0 +1,180 @@
+2017-08-08 03:34:10 INFO  WalletHubReview:87 - inside the loginToApplication function
+2017-08-08 03:34:17 INFO  WalletHubReview:91 - sending email Abhi03prof@gmail.com
+2017-08-08 03:34:17 INFO  WalletHubReview:94 - setting Password Abhi@0051
+2017-08-08 03:34:27 INFO  TC002_ReviewWalletHub:45 - quitting test
+2017-08-08 03:35:36 INFO  WalletHubReview:87 - inside the loginToApplication function
+2017-08-08 03:35:41 INFO  WalletHubReview:91 - sending email Abhi03prof@gmail.com
+2017-08-08 03:35:41 INFO  WalletHubReview:94 - setting Password Abhi@0051
+2017-08-08 03:35:41 INFO  WalletHubReview:97 - clicking Login in button
+2017-08-08 03:35:43 INFO  WalletHubReview:114 - ====== star hover=====
+2017-08-08 03:35:49 INFO  WalletHubReview:131 - select the element from list which is Health
+2017-08-08 03:35:59 INFO  TC002_ReviewWalletHub:45 - quitting test
+2017-08-08 03:39:15 INFO  WalletHubReview:87 - inside the loginToApplication function
+2017-08-08 03:39:20 INFO  WalletHubReview:91 - sending email Abhi03prof@gmail.com
+2017-08-08 03:39:20 INFO  WalletHubReview:94 - setting Password Abhi@0051
+2017-08-08 03:39:20 INFO  WalletHubReview:97 - clicking Login in button
+2017-08-08 03:39:22 INFO  WalletHubReview:114 - ====== star hover=====
+2017-08-08 03:39:29 INFO  WalletHubReview:131 - select the element from list which is Health
+2017-08-08 03:39:36 INFO  TC002_ReviewWalletHub:45 - quitting test
+2017-08-08 03:45:08 INFO  WalletHubReview:87 - inside the loginToApplication function
+2017-08-08 03:45:13 INFO  WalletHubReview:91 - sending email Abhi03prof@gmail.com
+2017-08-08 03:45:13 INFO  WalletHubReview:94 - setting Password Abhi@0051
+2017-08-08 03:45:14 INFO  WalletHubReview:97 - clicking Login in button
+2017-08-08 03:45:16 INFO  WalletHubReview:114 - ====== star hover=====
+2017-08-08 03:45:22 INFO  WalletHubReview:132 - select the element from list which is Health
+2017-08-08 03:45:23 INFO  WalletHubReview:150 - select 5 stars
+2017-08-08 03:45:23 INFO  TC002_ReviewWalletHub:45 - quitting test
+2017-08-08 03:48:47 INFO  WalletHubReview:87 - inside the loginToApplication function
+2017-08-08 03:48:50 INFO  WalletHubReview:91 - sending email Abhi03prof@gmail.com
+2017-08-08 03:48:50 INFO  WalletHubReview:94 - setting Password Abhi@0051
+2017-08-08 03:48:50 INFO  WalletHubReview:97 - clicking Login in button
+2017-08-08 03:48:53 INFO  WalletHubReview:114 - ====== star hover=====
+2017-08-08 03:49:00 INFO  WalletHubReview:132 - select the element from list which is Health
+2017-08-08 03:49:01 INFO  WalletHubReview:151 - select 5 stars
+2017-08-08 03:49:01 INFO  TC002_ReviewWalletHub:45 - quitting test
+2017-08-08 16:37:02 INFO  WalletHubReview:87 - inside the loginToApplication function
+2017-08-08 16:37:12 INFO  WalletHubReview:91 - sending email Abhi03prof@gmail.com
+2017-08-08 16:37:12 INFO  WalletHubReview:94 - setting Password Abhi@0051
+2017-08-08 16:37:12 INFO  WalletHubReview:97 - clicking Login in button
+2017-08-08 16:37:14 INFO  WalletHubReview:114 - ====== star hover=====
+2017-08-08 16:37:28 INFO  WalletHubReview:132 - select the element from list which is Health
+2017-08-08 16:37:28 INFO  TC002_ReviewWalletHub:45 - quitting test
+2017-08-08 16:41:24 INFO  WalletHubReview:87 - inside the loginToApplication function
+2017-08-08 16:41:33 INFO  WalletHubReview:91 - sending email Abhi03prof@gmail.com
+2017-08-08 16:41:34 INFO  WalletHubReview:94 - setting Password Abhi@0051
+2017-08-08 16:41:34 INFO  WalletHubReview:97 - clicking Login in button
+2017-08-08 16:41:36 INFO  WalletHubReview:114 - ====== star hover=====
+2017-08-08 16:41:59 INFO  WalletHubReview:132 - select the element from list which is Health
+2017-08-08 16:41:59 INFO  WalletHubReview:135 - 4
+2017-08-08 16:41:59 INFO  WalletHubReview:153 - select 5 stars
+2017-08-08 16:41:59 INFO  TC002_ReviewWalletHub:45 - quitting test
+2017-08-08 16:48:37 INFO  WalletHubReview:87 - inside the loginToApplication function
+2017-08-08 16:48:40 INFO  WalletHubReview:91 - sending email Abhi03prof@gmail.com
+2017-08-08 16:48:44 INFO  WalletHubReview:94 - setting Password Abhi@0051
+2017-08-08 16:48:44 INFO  WalletHubReview:97 - clicking Login in button
+2017-08-08 16:48:46 INFO  WalletHubReview:114 - ====== star hover=====
+2017-08-08 16:48:58 INFO  WalletHubReview:132 - select the element from list which is Health
+2017-08-08 16:48:58 INFO  WalletHubReview:135 - 4
+2017-08-08 16:48:59 INFO  WalletHubReview:163 - select 5 stars
+2017-08-08 16:48:59 INFO  TC002_ReviewWalletHub:45 - quitting test
+2017-08-08 16:51:03 INFO  WalletHubReview:87 - inside the loginToApplication function
+2017-08-08 16:51:05 INFO  WalletHubReview:91 - sending email Abhi03prof@gmail.com
+2017-08-08 16:51:06 INFO  WalletHubReview:94 - setting Password Abhi@0051
+2017-08-08 16:51:07 INFO  WalletHubReview:97 - clicking Login in button
+2017-08-08 16:51:09 INFO  WalletHubReview:114 - ====== star hover=====
+2017-08-08 16:51:19 INFO  WalletHubReview:132 - select the element from list which is Health
+2017-08-08 16:51:19 INFO  WalletHubReview:135 - 4
+2017-08-08 16:51:19 INFO  WalletHubReview:138 - //ul[@class='drop-el']/li[1]
+2017-08-08 16:51:19 INFO  WalletHubReview:139 - Annuities
+2017-08-08 16:51:19 INFO  WalletHubReview:138 - //ul[@class='drop-el']/li[2]
+2017-08-08 16:51:19 INFO  WalletHubReview:139 - Health
+2017-08-08 16:51:19 INFO  WalletHubReview:166 - select 5 stars
+2017-08-08 16:51:20 INFO  TC002_ReviewWalletHub:45 - quitting test
+2017-08-08 16:54:07 INFO  WalletHubReview:87 - inside the loginToApplication function
+2017-08-08 16:54:09 INFO  WalletHubReview:91 - sending email Abhi03prof@gmail.com
+2017-08-08 16:54:11 INFO  WalletHubReview:94 - setting Password Abhi@0051
+2017-08-08 16:54:11 INFO  WalletHubReview:97 - clicking Login in button
+2017-08-08 16:54:14 INFO  WalletHubReview:114 - ====== star hover=====
+2017-08-08 16:54:26 INFO  WalletHubReview:132 - select the element from list which is Health
+2017-08-08 16:54:26 INFO  WalletHubReview:135 - 4
+2017-08-08 16:54:26 INFO  WalletHubReview:138 - //ul[@class='drop-el']/li[1]
+2017-08-08 16:54:26 INFO  WalletHubReview:139 - Annuities
+2017-08-08 16:54:26 INFO  WalletHubReview:138 - //ul[@class='drop-el']/li[2]
+2017-08-08 16:54:26 INFO  WalletHubReview:139 - Health
+2017-08-08 16:54:26 INFO  WalletHubReview:166 - select 5 stars
+2017-08-08 16:54:26 INFO  TC002_ReviewWalletHub:45 - quitting test
+2017-08-08 16:55:20 INFO  WalletHubReview:87 - inside the loginToApplication function
+2017-08-08 16:55:27 INFO  WalletHubReview:91 - sending email Abhi03prof@gmail.com
+2017-08-08 16:55:27 INFO  WalletHubReview:94 - setting Password Abhi@0051
+2017-08-08 16:55:27 INFO  WalletHubReview:97 - clicking Login in button
+2017-08-08 16:55:29 INFO  WalletHubReview:114 - ====== star hover=====
+2017-08-08 16:55:37 INFO  WalletHubReview:132 - select the element from list which is Health
+2017-08-08 16:55:37 INFO  WalletHubReview:135 - 4
+2017-08-08 16:55:37 INFO  WalletHubReview:138 - //ul[@class='drop-el']/li[1]
+2017-08-08 16:55:37 INFO  WalletHubReview:139 - Annuities
+2017-08-08 16:55:37 INFO  WalletHubReview:138 - //ul[@class='drop-el']/li[2]
+2017-08-08 16:55:37 INFO  WalletHubReview:139 - Health
+2017-08-08 16:55:37 INFO  WalletHubReview:166 - select 5 stars
+2017-08-08 16:55:37 INFO  WalletHubReview:170 - enter review comments
+2017-08-08 16:55:39 INFO  WalletHubReview:174 - click submit button on review form
+2017-08-08 16:55:48 INFO  TC002_ReviewWalletHub:45 - quitting test
+2017-08-08 16:58:21 INFO  WalletHubReview:87 - inside the loginToApplication function
+2017-08-08 16:58:28 INFO  WalletHubReview:91 - sending email Abhi03prof@gmail.com
+2017-08-08 16:58:28 INFO  WalletHubReview:94 - setting Password Abhi@0051
+2017-08-08 16:58:29 INFO  WalletHubReview:97 - clicking Login in button
+2017-08-08 16:58:31 INFO  WalletHubReview:114 - ====== star hover=====
+2017-08-08 16:58:39 INFO  WalletHubReview:132 - select the element from list which is Health
+2017-08-08 16:58:39 INFO  WalletHubReview:135 - 4
+2017-08-08 16:58:39 INFO  WalletHubReview:138 - //ul[@class='drop-el']/li[1]
+2017-08-08 16:58:39 INFO  WalletHubReview:139 - Annuities
+2017-08-08 16:58:39 INFO  WalletHubReview:138 - //ul[@class='drop-el']/li[2]
+2017-08-08 16:58:40 INFO  WalletHubReview:139 - Health
+2017-08-08 16:58:40 INFO  WalletHubReview:166 - select 5 stars
+2017-08-08 16:58:40 INFO  WalletHubReview:170 - enter review comments
+2017-08-08 16:58:42 INFO  WalletHubReview:174 - click submit button on review form
+2017-08-08 16:58:50 INFO  TC002_ReviewWalletHub:45 - quitting test
+2017-08-08 17:08:19 INFO  WalletHubReview:87 - inside the loginToApplication function
+2017-08-08 17:08:27 INFO  WalletHubReview:91 - sending email Abhi03prof@gmail.com
+2017-08-08 17:08:27 INFO  WalletHubReview:94 - setting Password Abhi@0051
+2017-08-08 17:08:27 INFO  WalletHubReview:97 - clicking Login in button
+2017-08-08 17:08:29 INFO  WalletHubReview:114 - ====== star hover=====
+2017-08-08 17:08:41 INFO  WalletHubReview:132 - select the element from list which is Health
+2017-08-08 17:08:41 INFO  WalletHubReview:135 - 4
+2017-08-08 17:08:41 INFO  WalletHubReview:138 - //ul[@class='drop-el']/li[1]
+2017-08-08 17:08:41 INFO  WalletHubReview:139 - Annuities
+2017-08-08 17:08:41 INFO  WalletHubReview:138 - //ul[@class='drop-el']/li[2]
+2017-08-08 17:08:41 INFO  WalletHubReview:139 - Health
+2017-08-08 17:08:43 INFO  WalletHubReview:157 - enter review comments
+2017-08-08 17:08:45 INFO  WalletHubReview:161 - click submit button on review form
+2017-08-08 17:09:02 INFO  TC002_ReviewWalletHub:45 - quitting test
+2017-08-08 17:17:56 INFO  WalletHubReview:87 - inside the loginToApplication function
+2017-08-08 17:18:01 INFO  WalletHubReview:91 - sending email Abhi03prof@gmail.com
+2017-08-08 17:18:01 INFO  WalletHubReview:94 - setting Password Abhi@0051
+2017-08-08 17:18:02 INFO  WalletHubReview:97 - clicking Login in button
+2017-08-08 17:18:04 INFO  WalletHubReview:114 - ====== star hover=====
+2017-08-08 17:18:15 INFO  WalletHubReview:132 - select the element from list which is Health
+2017-08-08 17:18:15 INFO  WalletHubReview:135 - 4
+2017-08-08 17:18:15 INFO  WalletHubReview:138 - //ul[@class='drop-el']/li[1]
+2017-08-08 17:18:15 INFO  WalletHubReview:139 - Annuities
+2017-08-08 17:18:15 INFO  WalletHubReview:138 - //ul[@class='drop-el']/li[2]
+2017-08-08 17:18:15 INFO  WalletHubReview:139 - Health
+2017-08-08 17:18:17 INFO  WalletHubReview:157 - enter review comments
+2017-08-08 17:18:19 INFO  WalletHubReview:162 - click submit button on review form
+2017-08-08 17:18:31 INFO  TC002_ReviewWalletHub:45 - quitting test
+2017-08-08 18:32:51 INFO  TC001_VerifyLogin:43 - ==================Starting test loginAndPostStatus================
+2017-08-08 18:32:51 INFO  TC001_VerifyLogin:44 - data from data providerwallettest4321@gmail.com Passw0rd#! Hello world
+2017-08-08 18:32:51 INFO  FacebookLogin:56 - inside the loginToApplication function
+2017-08-08 18:32:51 INFO  FacebookLogin:57 - sending email wallettest4321@gmail.com
+2017-08-08 18:32:51 INFO  FacebookLogin:60 - setting Password Password
+2017-08-08 18:32:52 INFO  FacebookLogin:63 - clicking Login in button
+2017-08-08 18:32:56 INFO  TC001_VerifyLogin:69 - quitting test
+2017-08-08 18:36:19 INFO  TC001_VerifyLogin:43 - ==================Starting test loginAndPostStatus================
+2017-08-08 18:36:19 INFO  TC001_VerifyLogin:44 - data from data providerwallettest4321@gmail.com Passw0rd#! Hello world
+2017-08-08 18:36:19 INFO  FacebookLogin:56 - inside the loginToApplication function
+2017-08-08 18:36:19 INFO  FacebookLogin:57 - sending email wallettest4321@gmail.com
+2017-08-08 18:36:19 INFO  FacebookLogin:60 - setting Password Passw0rd#!
+2017-08-08 18:36:20 INFO  FacebookLogin:63 - clicking Login in button
+2017-08-08 18:36:30 INFO  TC001_VerifyLogin:49 - this is verified and going to post status
+2017-08-08 18:36:48 INFO  TC001_VerifyLogin:54 - ==================Finished test loginAndPostStatus================
+2017-08-08 18:36:48 INFO  TC001_VerifyLogin:69 - quitting test
+2017-08-08 18:38:00 INFO  TC002_ReviewWalletHub:37 - Data from data providerAbhi03prof@gmail.com Abhi@0051 Health This is sample text2 if you are designing a brand new website for someone, most times you will have to make sure the prototype looks finished by inserting text or photos or what have you. The purpose of this is so the person viewing the prototype has a chance to actually feel and understand the idea behind what you have created.Now in some circumstances, designers may use squares and rectangles to help you visualize what should and could be in a specific location
+2017-08-08 18:38:00 INFO  WalletHubReview:87 - inside the loginToApplication function
+2017-08-08 18:38:10 INFO  TC002_ReviewWalletHub:63 - quitting test
+2017-08-08 18:40:26 INFO  TC002_ReviewWalletHub:37 - Data from data providerAbhi03prof@gmail.com Abhi@0051 Health This is sample text2 if you are designing a brand new website for someone, most times you will have to make sure the prototype looks finished by inserting text or photos or what have you. The purpose of this is so the person viewing the prototype has a chance to actually feel and understand the idea behind what you have created.Now in some circumstances, designers may use squares and rectangles to help you visualize what should and could be in a specific location
+2017-08-08 18:40:26 INFO  WalletHubReview:87 - inside the loginToApplication function
+2017-08-08 18:40:30 INFO  TC002_ReviewWalletHub:63 - quitting test
+2017-08-08 18:41:37 INFO  TC002_ReviewWalletHub:37 - Data from data providerAbhi03prof@gmail.com Abhi@0051 Health This is sample text2 if you are designing a brand new website for someone, most times you will have to make sure the prototype looks finished by inserting text or photos or what have you. The purpose of this is so the person viewing the prototype has a chance to actually feel and understand the idea behind what you have created.Now in some circumstances, designers may use squares and rectangles to help you visualize what should and could be in a specific location
+2017-08-08 18:41:37 INFO  WalletHubReview:87 - inside the loginToApplication function
+2017-08-08 18:41:47 INFO  WalletHubReview:91 - sending email Abhi03prof@gmail.com
+2017-08-08 18:41:47 INFO  WalletHubReview:94 - setting Password Abhi@0051
+2017-08-08 18:41:47 INFO  WalletHubReview:97 - clicking Login in button
+2017-08-08 18:41:50 INFO  WalletHubReview:114 - ====== star hover=====
+2017-08-08 18:41:59 INFO  WalletHubReview:132 - select the element from list which is Health
+2017-08-08 18:41:59 INFO  WalletHubReview:135 - 4
+2017-08-08 18:41:59 INFO  WalletHubReview:138 - //ul[@class='drop-el']/li[1]
+2017-08-08 18:42:00 INFO  WalletHubReview:139 - Annuities
+2017-08-08 18:42:00 INFO  WalletHubReview:138 - //ul[@class='drop-el']/li[2]
+2017-08-08 18:42:00 INFO  WalletHubReview:139 - Health
+2017-08-08 18:42:02 INFO  WalletHubReview:157 - enter review comments
+2017-08-08 18:42:04 INFO  WalletHubReview:162 - click submit button on review form
+2017-08-08 18:42:15 INFO  TC002_ReviewWalletHub:63 - quitting test
